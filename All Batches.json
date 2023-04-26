@@ -1,1 +1,12 @@
-[{"batch": "Lakshya NEET 2024","image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/63e1433c-14c1-4ce4-80fe-875a4da51b9c.png","slug": "06 Apr 2023"},{"batch": "Lakshya JEE 2024","image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/44e4d40d-06b1-4482-bc28-3f2c3c3f8a78.png","slug": "06 Apr 2023"}]
+[
+  {
+    "batch": "Lakshya NEET 2024",
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/63e1433c-14c1-4ce4-80fe-875a4da51b9c.png",
+    "slug": "LakshyaNeet2024_sub.json"
+  },
+  {
+    "batch": "Lakshya JEE 2024",
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/44e4d40d-06b1-4482-bc28-3f2c3c3f8a78.png",
+    "slug": "LakshyaJee2024_sub.json"
+  }
+]
