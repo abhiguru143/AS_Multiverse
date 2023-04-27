@@ -1,7 +1,22 @@
 [
   {
+    "batch": "Arjuna NEET 2024",
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/17e61309-f42f-41fd-9bdc-130dbb55113d.jpeg",
+    "slug": "ArjunaNeet2024_sub.json"
+  },
+  {
     "batch": "Lakshya NEET 2024",
     "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/63e1433c-14c1-4ce4-80fe-875a4da51b9c.png",
     "slug": "LakshyaNeet2024_sub.json"
+  },
+  {
+    "batch": "Arjuna JEE 2024",
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f4389e45-f005-4307-9c18-9000e3e5acb4.jpeg",
+    "slug": "ArjunaJee2024_sub.json"
+  },
+  {
+    "batch": "Lakshya JEE 2024",
+    "image": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/44e4d40d-06b1-4482-bc28-3f2c3c3f8a78.png",
+    "slug": "LakshyaJee2024_sub.json"
   }
 ]
