@@ -1,0 +1,669 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "64c2bfa918b7b30018dc4edd",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-28T00:00:00.000Z",
+      "startTime": "2023-07-28T13:05:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64c3d86d8e3e5f001831def4",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 08 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64c3d86bb06683001890406c",
+              "name": "Moving Charges and Magnetism 08  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a0dfd0b0-040c-4355-aa76-b017fdaeeb17.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64c2bf1b18b7b30018dc4eca",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-28T00:00:00.000Z",
+      "startTime": "2023-07-28T12:55:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64bd955eb5d3670018076ab9",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Practice Test 05 : Test Syllabus (30/07/2023) || Lakshya NEET 2024",
+          "note": "Test Syllabus",
+          "attachmentIds": [
+            {
+              "_id": "64bd955d257c500018ed41a0",
+              "name": "Practice Test 05  Test Syllabus (30072023).pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/185e8016-f196-4c6a-8bf4-b2423f907470.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        },
+        {
+          "_id": "6429d4e8d1449a00184f0d28",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Lakshya NEET 2024 : Telegram Group Link",
+          "note": "Telegram Group Link",
+          "attachmentIds": [
+            {
+              "_id": "643ea126d0fcc40018fda4f1",
+              "name": "Lakshya NEET 2024  Telegram Group Link.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/35fa20e2-fc5a-41a0-9e1c-439bb106a1c1.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64c281b715d8ba0018041b1d",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-27T00:00:00.000Z",
+      "startTime": "2023-07-27T15:30:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64c2879cfd24c800182c8883",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 07 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64c2879a3c672000188cb7e8",
+              "name": "Moving Charges and Magnetism 07  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/d8b90216-64ac-4726-b8e1-c33dde8a4b7a.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64c0209db4e3000018edb15b",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-26T00:00:00.000Z",
+      "startTime": "2023-07-26T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64c139c5970c8900181aaad3",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 06 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64c139c40da63200187946cf",
+              "name": "Moving Charges and Magnetism 06  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/43145133-b40e-41d1-ac65-8e6ba547a3d7.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64bcc120bc036c0018a2f6c5",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-23T00:00:00.000Z",
+      "startTime": "2023-07-23T09:40:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64bd15454815540018cf7495",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 05 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64bd1538861641001877d53b",
+              "name": "mec ,5.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/7bc1ed9c-2503-4621-943f-d6b0717cb6f9.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64b9876f9fb3710018e31ead",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-21T00:00:00.000Z",
+      "startTime": "2023-07-21T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64baa8d764ed3c0018e1330d",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 04 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64baa8d66bb97500183ce1f4",
+              "name": "Moving Charges and Magnetism 04  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a056c67f-14d4-4552-aa18-68eb0d12eabb.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64b83b6671234d00180b0bb5",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-20T00:00:00.000Z",
+      "startTime": "2023-07-20T16:00:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64b9511a3156540018688a98",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 03 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64b95119b8885c00187e87fc",
+              "name": "Moving Charges and Magnetism 03  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/40e73508-ce02-4723-9022-ea4410d1831e.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64b6dcc69e75a8001890c2a5",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-19T00:00:00.000Z",
+      "startTime": "2023-07-19T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64b7fe55ea2fba0018417845",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 02 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64b7fe547a1ea800189f5d5e",
+              "name": "Moving Charges and Magnetism 02  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/8583cc0a-cb4e-4b85-b47c-131559dc2873.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64b24b60f01a6600194e2f9a",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-15T00:00:00.000Z",
+      "startTime": "2023-07-15T09:30:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64b24b36872a190018f22647",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity : Short Notes || Lakshya NEET 2024",
+          "note": "Others",
+          "attachmentIds": [
+            {
+              "_id": "64b24b261d6ea10018147376",
+              "name": "Current Electricity  Short Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/266237bd-78fd-4364-b433-95111ed38e92.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64b25148dd84c80018826241",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-15T00:00:00.000Z",
+      "startTime": "2023-07-15T09:30:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64b2508b73dd9d0018009ae9",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity : Mind Map || Lakshya NEET 2024",
+          "note": "Others",
+          "attachmentIds": [
+            {
+              "_id": "64b2508adde0e60018a6f67d",
+              "name": "Current Electricity  Mind Map.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/37b25d34-158d-4cc2-bde0-3ec960bb7922.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64b2523ffc631000189efda2",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-15T00:00:00.000Z",
+      "startTime": "2023-07-15T09:30:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64b251c8fefd530018254789",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity : Practice Sheet || Lakshya NEET 2024",
+          "note": "Practice Sheet",
+          "attachmentIds": [
+            {
+              "_id": "64b251c6ddf52400189d67fd",
+              "name": "Current Electricity  Practice Sheet.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/ab071e69-ebd3-4c3f-bdea-4cac6142d6c6.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64b0552ad8f9a70018cbaa0f",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-14T00:00:00.000Z",
+      "startTime": "2023-07-14T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64b15e01241abf0018dcb734",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Moving Charges and Magnetism 01 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64b15e40a3611a0018ab4e48",
+              "name": "Moving Charges and Magnetism 01  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/1a7534b5-c781-4f67-a610-4b0bf1211e5d.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64aef3aa89fc8d00188fe88b",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-13T00:00:00.000Z",
+      "startTime": "2023-07-13T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64b011167e7302001849b65b",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity 14 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64b01115f6f50500180e8bf0",
+              "name": "Current Electricity 14.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/85003eb7-6e05-4e88-8232-9d24137364f4.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64aebd54541afe001885625a",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-12T00:00:00.000Z",
+      "startTime": "2023-07-12T15:31:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64aebcca16ce630018338117",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Electrostatic Potential and Capacitance : Short Notes || Lakshya NEET 2024",
+          "note": "Others",
+          "attachmentIds": [
+            {
+              "_id": "64aebcc9d2e7fa0018e5e844",
+              "name": "Electrostatic Potential and Capacitance  Short Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/121b841e-3cb6-41a0-9d70-b617d50667ba.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64aebd3ff1926200189129b2",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-12T00:00:00.000Z",
+      "startTime": "2023-07-12T15:30:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64aebcabd2e7fa0018e5e819",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Electric Charges and Field : Short Notes || Lakshya NEET 2024",
+          "note": "Others",
+          "attachmentIds": [
+            {
+              "_id": "64aebcaa534b1d00187ef4b0",
+              "name": "Electric Charges and Field  Short Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/9fb4c839-0db0-422b-9a2d-4f5b9fc5690b.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64ada7f93ce6070018d127b9",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-12T00:00:00.000Z",
+      "startTime": "2023-07-12T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64aec2dc16ce630018338ba4",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity 13 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64aec2dbfec3fe00181a9c9a",
+              "name": "Current Electricity 13  Class Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/146f574c-6f48-45dc-8277-143eb188c609.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64a985eafaacb300187f2d06",
+      "isFree": false,
+      "status": "PENDING",
+      "date": "2023-07-08T00:00:00.000Z",
+      "startTime": "2023-07-08T16:15:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64a98649faacb300187f2d31",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Electrostatic Potential and Capacitance : Assignment 01 Solution Notes || Lakshya NEET 2024",
+          "note": "Others",
+          "attachmentIds": [
+            {
+              "_id": "64a98648b69ed000186a075f",
+              "name": "Electrostatic Potential and Capacitance  Assignment 01 Solution Notes.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/3ac17ad1-90b9-4788-b247-8d5b98b4cf91.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64a6fc403b6fbe00180b7f90",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-07T00:00:00.000Z",
+      "startTime": "2023-07-07T12:50:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64a82e5bbb22d600190e2c89",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity 12 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64a82e53dc7f680018165287",
+              "name": "Current Electricity 12.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/add6bc96-4d93-4ea6-a87a-f3001d4fa579.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64a63da59ed58f00180fe13a",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-06T00:00:00.000Z",
+      "startTime": "2023-07-06T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64a6df5a730d14001869ee83",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity 11 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64a6df597d38190018ad7760",
+              "name": "current electricity 11.pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/6802287a-0e7f-472a-8455-0b18beaf477f.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    },
+    {
+      "_id": "64a45a78b132590018fea6e3",
+      "isFree": false,
+      "status": "COMPLETED",
+      "date": "2023-07-05T00:00:00.000Z",
+      "startTime": "2023-07-05T12:45:00.000Z",
+      "isDPPNotes": false,
+      "homeworkIds": [
+        {
+          "_id": "64a58c5a4255f20019b2a661",
+          "actions": [
+            "Open",
+            "Download",
+            "Print"
+          ],
+          "topic": "Current Electricity 10 : Class Notes || Lakshya NEET 2024",
+          "note": "Class Notes",
+          "attachmentIds": [
+            {
+              "_id": "64a58c594255f20019b2a65d",
+              "name": "Current Electricity 10 notes .pdf",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/83877859-0537-4f8c-abe2-ab5948092cab.pdf"
+            }
+          ],
+          "batchSubjectId": "63fc894bf4bb2c001780f89c",
+          "solutionVideoType": "none"
+        }
+      ],
+      "dRoomId": "63fc893ae3220171211d5d97",
+      "isBatchDoubtEnabled": true
+    }
+  ],
+  "paginate": {
+    "limit": 20,
+    "totalCount": null
+  }
+}
