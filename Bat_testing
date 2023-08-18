@@ -1,0 +1,771 @@
+{
+  "success": true,
+  "data": {
+    "_id": "621c50da336af600182450b3",
+    "type": "REGULAR",
+    "name": "Lakshya NEET 2023",
+    "exam": [
+      "NEET"
+    ],
+    "class": "12",
+    "language": "Hinglish",
+    "byName": "For 12th NEET 2023",
+    "label": [],
+    "description": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n       * {\n           box-sizing: border-box;\n       }\n \n       .column {\n           float: left;\n           padding: 10px;\n           height: 72px;\n       }\n \n       .left {\n           width: 13%;\n           border-bottom-left-radius: 12px;\n           border-top-left-radius: 12px;\n           box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\n       }\n \n       .right {\n           width: 87%;\n           border-bottom-right-radius: 12px;\n           border-top-right-radius: 12px;\n           box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\n \n       }\n \n       .row:after {\n           content: \"\";\n           display: table;\n           clear: both;\n       }\n \n       .shadow {\n           box-shadow: inset -1px 7px 14px -4px #9a6d6d;\n       }\n \n       p {\n           font-family: 'Montserrat', sans-serif;\n           font-weight: 600;\n           font-size: 25px;\n       }\n \n       .desc {\n           margin: 0;\n           color: rgb(84, 75, 75);\n           vertical-align: middle;\n       }\n \n       .number {\n           margin: 0;\n           padding: 18px;\n       }\n \n       .verticle-align {\n           display: flex;\n           align-content: center;\n           align-items: center;\n       }\n       .justify-center {\n           justify-content: center;\n       }\n       .justify-start {\n           justify-content: flex-start;\n       }\n \n       @media(max-width: 1920px) {\n           .article {\n               margin: auto;\n               width: 80%;\n           }\n \n           p {\n               font-size: 18px;\n           }\n       }\n       @media (max-width: 1520px) {\n           .article {\n               margin: auto;\n               width: 100%;\n           }\n \n           p {\n               font-size: 16px;\n           }\n       }\n \n       @media (max-width: 1024px) {\n           .article {\n               margin: auto;\n               width: 80%;\n           }\n \n           p {\n               font-size: 14px;\n           }\n       }\n       @media (max-width: 768px) {\n           .article {\n               margin: auto;\n               width: 80%;\n           }\n \n           p {\n               font-size: 14px;\n           }\n       }\n       @media(max-width: 425px) {\n           .article {\n               margin: auto;\n               width: 100%;\n           }\n           p {\n               font-size: 12px;\n           }\n       }\n       @media (max-width: 374px) {\n           p {\n               font-size: 8px;\n           }\n       }\n       @media (max-width: 425px) {\n           .column {\n               height: 64px;\n           }\n           .left {\n               width: 15%;\n           }\n           .right {\n               width: 85%;\n           }\n       }\n   </style>\n</head>\n<body>\n<section class=\"article\">\n<div class=\"row\">\n<div class=\"column left verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 1000;\">\n<p class=\" number\" style=\"color: #ffffff;\">01</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 1000; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Complete Class 12th (NEET) Syllabus For Session 2022-23. <br />🎯 CLASSES STARTING FROM&nbsp; 07 April 2022</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">02</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">✒️ Free Arjuna 2021 will be provided with the batch.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 1000;\">\n<p class=\"number\" style=\"color: #ffffff;\">03</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 1000; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">✒️ Live Classes will be provided. <br />In case you missed the live class you can see it's recording any number of times.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">04</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Revision of 11th class syllabus after 12th Class Syllabus Completion.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">05</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Dedicated faculties for solving doubts through best-in-class Doubt Engine.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">06</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Lecture Planner &amp; Test Planner has been uploaded in the Batch's Section.<br />Daily Practice Problems (DPP) &amp; its Video Solution for each Lecture will be provided after the Lectures.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">07</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Syllabus Completion by Nov 2022. <br />The batch will be accessible till NEET ENTRANCE EXAM 2023.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 1000;\">\n<p class=\" number\" style=\"color: #ffffff;\">08</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 1000; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">SMT- Success Mantra with Toppers, SMT sessions will be provided where you can interact with the PW alumni.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">09</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Recorded classes for English, Computer science and physical education will be provided in one shot format, one month before the board exam.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">10</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Note - There is No REFUND Policy. <br />PW Wallet points are capped for new batches. PW Wallet points can be availed for purchasing batches only.</p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #606dd7; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">11</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\"><strong>NOTE : You change batch between Lakshya JEE to Lakshya NEET within 15 days of your purchase.</strong></p>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"column left shadow verticle-align justify-center\" style=\"background-color: #f770a1; z-index: 100;\">\n<p class=\" number\" style=\"color: #ffffff;\">12</p>\n</div>\n<div class=\"column right verticle-align justify-start\" style=\"background-color: #685f5f00; z-index: 100; box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;\">\n<p class=\"desc\">Only First 2 Chapters PDFs will be provided to students for each subjects.</p>\n</div>\n</div>\n<div class=\"row\">\n<p>&nbsp;</p>\n<p>NOTE</p>\n<p><strong>None of our PW Yoddha ,offical retailers and PW community members would ask you to make payments on another platforms other than official PW APP or Website. Any form of coupon or link will redirect you to PW App or website only.Please Avoid paying any amount to individuals through PayTM, Google Pay, Phonepe or any UPI platform.</strong></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n</div>\n</section>\n</body>\n</html>",
+    "batchCode": "LAK22128959",
+    "startDate": "2022-04-07T00:00:00.000Z",
+    "endDate": "2023-09-30T18:29:59.000Z",
+    "programId": "5eb3b1017b1fb86475ec30eb",
+    "fee": {
+      "amount": 5000,
+      "tax": 0,
+      "discount": 16,
+      "total": 4200
+    },
+    "isPurchased": true,
+    "isBlocked": false,
+    "isChatBlocked": false,
+    "subjects": [
+      {
+        "_id": "621c50dab298c400182cc956",
+        "fileId": {
+          "_id": "624bd57b29ac560011db9a95",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/82cccded-78f0-444e-8236-268fc5ec2606.pdf",
+          "name": "Lecture Planner _ Physics - Physics (1).pdf"
+        },
+        "subject": "Physics",
+        "subjectId": "5f709c351b999704b83cca8a",
+        "slug": "physics-937173",
+        "schedules": [],
+        "teacherIds": [
+          {
+            "_id": "6087996f73187c00181a3b32",
+            "firstName": "Manish",
+            "lastName": "Raj Sir",
+            "qualification": "Qualification- PhD in physics with csir-net",
+            "imageId": {
+              "_id": "644d26b236dcc0001802ef72",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/955802de-4d7c-4f81-ac42-7b8cbc0ecbc1.png",
+              "name": "Untitled-2-s.png"
+            },
+            "companyId": null,
+            "experience": "10",
+            "featuredLine": "Majdoori se duri The MR Star hai jruri"
+          },
+          {
+            "_id": "60ae1269142a85005223113d",
+            "firstName": "Aditya",
+            "lastName": "Anand Sir",
+            "qualification": "B.tech( Electronics and Communication)",
+            "imageId": {
+              "_id": "616eabcecf9fbc0018bd702d",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/d448c4b0-b42d-4439-8e64-b99b9c7b224c.png",
+              "name": "asc (1).png"
+            },
+            "companyId": null,
+            "featuredLine": "Hello Bachhalog...mast maza aaya.."
+          },
+          {
+            "_id": "609e9e858b9a0e0018ce08f1",
+            "firstName": "Himanshu",
+            "lastName": "Gupta Sir",
+            "qualification": "B. Tech (IIT Dhanbad), MBA (IIT Dhanbad)",
+            "imageId": {
+              "_id": "6452500398cd5a00189797a5",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/75798e7b-0396-44bd-8927-f989d24564cb.png",
+              "name": "Himanshu-Gupta-Sir.png"
+            },
+            "companyId": null,
+            "experience": "8",
+            "featuredLine": "Feel aaya ki nahi aaya.."
+          }
+        ],
+        "imageId": {
+          "_id": "64afe847a5415f0018de88dd",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/bc2c62dd-a5c5-4da6-93ec-4793a6932071.png",
+          "name": "Physics.png"
+        },
+        "tagCount": 19
+      },
+      {
+        "_id": "621c50dab298c400182cc957",
+        "fileId": {
+          "_id": "624bd59bd0999800180db2cb",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/eb5dfad0-7c45-4469-b280-ff3870c4b72c.pdf",
+          "name": "Lecture Planner _ Chemistry - Final Chemistry (1).pdf"
+        },
+        "subject": "Chemistry",
+        "subjectId": "5f709c26796f410011b7b80b",
+        "slug": "chemistry-644808",
+        "schedules": [],
+        "teacherIds": [
+          {
+            "_id": "609e9ff6ef20f40011aa0dd1",
+            "firstName": "Pankaj",
+            "lastName": "Sijariya Sir",
+            "qualification": "B.Tech from HBTI kanpur",
+            "imageId": {
+              "_id": "6231ba1e599c86001104e313",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a34dbc8e-bdc6-4d50-b01d-3fe050035dda.png",
+              "name": "pankaj sir 2.png"
+            },
+            "companyId": null,
+            "experience": "14",
+            "featuredLine": "Aap yaha aaye thank you so much  Tab tak ke liye okay bye"
+          },
+          {
+            "_id": "60879ab1f9f6bc0011d758ce",
+            "firstName": "Amit",
+            "lastName": "Mahajan Sir",
+            "qualification": "UGC NET Qualified (AIR 67), GATE Qualified (AIR 511)",
+            "imageId": {
+              "_id": "643514f74160ad00180094aa",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/875d6886-f8d7-461f-acd0-54f3ca24aae5.png",
+              "name": "12_-_Amit_Mahajan-removebg-preview.png"
+            },
+            "companyId": null,
+            "experience": "20",
+            "featuredLine": "You don’t get what you wish for. You get what you work for.."
+          },
+          {
+            "_id": "61161bf0cb9c6600183ede86",
+            "firstName": "Mohit",
+            "lastName": "Dadheech Sir",
+            "qualification": "Masters in Pharma from NIPER",
+            "imageId": {
+              "_id": "646f2d1ebe50260018eab627",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/42e1f7cf-2c75-404e-a853-50a2654daa0e.png",
+              "name": "6.png"
+            },
+            "companyId": null,
+            "experience": "10",
+            "featuredLine": "Ab sbko JUGAAD milega"
+          },
+          {
+            "_id": "60879b55feffb400163db6a1",
+            "firstName": "Dolly",
+            "lastName": "Sharma Mam",
+            "qualification": "MSC Gold Medalist",
+            "imageId": {
+              "_id": "646f2d561311280018998af2",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/9afc28fb-b91b-4b94-b3fc-7dff8208e1ae.png",
+              "name": "5.png"
+            },
+            "companyId": null,
+            "experience": "6",
+            "featuredLine": "Aao to welcome Jao to bheed kam"
+          },
+          {
+            "_id": "61206c354e71500011a9bc4b",
+            "firstName": "Ashima",
+            "lastName": "Gupta Ma'am",
+            "qualification": "M.Sc Chemistry",
+            "imageId": {
+              "_id": "6448d7d1cee73f00183ca103",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/073fafe1-7137-44a6-9317-c7c320e8cd0d.png",
+              "name": "Ashima-Gupta-Ma'am.png"
+            },
+            "companyId": null,
+            "experience": "6",
+            "featuredLine": "Work hard, dream big and never give up"
+          },
+          {
+            "_id": "609ea13336319a00180f27a6",
+            "firstName": "Deewan",
+            "lastName": "Tiwari Sir",
+            "qualification": "PhD pursuing, MSc chemistry from university Kota",
+            "imageId": {
+              "_id": "64749e3b36d9090018883ab9",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/603028e6-334a-4ca9-933f-489a08d2cd8d.png",
+              "name": "7 (1).png"
+            },
+            "companyId": null,
+            "experience": "8",
+            "featuredLine": "Welcome to PW"
+          }
+        ],
+        "imageId": {
+          "_id": "64afb8dad56d5800186c9e3c",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/9f2dff07-df7d-4680-91a2-7d2ad70e8967.png",
+          "name": "Chemistry.png"
+        },
+        "tagCount": 24
+      },
+      {
+        "_id": "62514ba490ce770018c2d560",
+        "fileId": {
+          "_id": "625153187bde3600187c725b",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/476aed8b-6c47-49c3-ade6-9a69bc35c3b8.pdf",
+          "name": "Lecture Planner _ Botany - BOT (1).pdf"
+        },
+        "subject": "Botany",
+        "subjectId": "60f66ed11a0bc900414d17c8",
+        "slug": "botany-962437",
+        "schedules": [
+          {
+            "_id": "63fdd4a3b520bf00bfe25b00",
+            "day": "MON",
+            "startTime": "2022-04-11T12:30:00.000Z",
+            "endTime": "2022-04-11T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3b520bf00bfe25aff",
+            "day": "TUE",
+            "startTime": "2022-04-12T12:30:00.000Z",
+            "endTime": "2022-04-12T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3b520bf00bfe25afe",
+            "day": "WED",
+            "startTime": "2022-04-13T12:30:00.000Z",
+            "endTime": "2022-04-13T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3b520bf00bfe25afd",
+            "day": "THU",
+            "startTime": "2022-04-07T12:30:00.000Z",
+            "endTime": "2022-04-07T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3b520bf00bfe25afc",
+            "day": "FRI",
+            "startTime": "2022-04-08T12:30:00.000Z",
+            "endTime": "2022-04-08T14:12:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "61161c2c884a7e001139f0f2",
+            "firstName": "Dr. Rishabh",
+            "lastName": "Choubey Sir",
+            "qualification": "MBBS",
+            "imageId": {
+              "_id": "647df089d143d600189eff08",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/46f04262-a8b9-4dc2-ab1f-5e361bbdaa20.png",
+              "name": "700 (1).png"
+            },
+            "companyId": null,
+            "experience": "8",
+            "featuredLine": "Hello future doctors"
+          },
+          {
+            "_id": "60ae2aa6dc60aa001155f0fb",
+            "firstName": "Tarun",
+            "lastName": "Kumar Sir",
+            "qualification": "Msc Biochemistry ( CSIR Net qualified )",
+            "imageId": {
+              "_id": "616ea4616e521800182a9afd",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/3603fa84-7e72-45f4-9be8-429881534ce1.png",
+              "name": "tarun sir.png"
+            },
+            "companyId": null,
+            "featuredLine": "Hello everyone beta start karte hein"
+          }
+        ],
+        "imageId": {
+          "_id": "64afe9665934500018fefd6b",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/c2c40d5b-ad94-4884-8f47-a9144cbbffe3.png",
+          "name": "Botany.png"
+        },
+        "tagCount": 16
+      },
+      {
+        "_id": "62514bede26fc6001133ce10",
+        "fileId": {
+          "_id": "625154b07e98d5001100cf3d",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/1ee511f1-84c5-4f7f-84f7-3a7b085badf0.pdf",
+          "name": "Lecture Planner _ Zoology - ZOO (1).pdf"
+        },
+        "subject": "Zoology",
+        "subjectId": "60f66f13725eb9001895d101",
+        "slug": "zoology-932797",
+        "schedules": [
+          {
+            "_id": "63fdd4a3a280ee001949757c",
+            "day": "MON",
+            "startTime": "2022-04-11T12:30:00.000Z",
+            "endTime": "2022-04-11T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3a280ee001949757b",
+            "day": "TUE",
+            "startTime": "2022-04-12T12:30:00.000Z",
+            "endTime": "2022-04-12T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3a280ee001949757a",
+            "day": "WED",
+            "startTime": "2022-04-13T12:30:00.000Z",
+            "endTime": "2022-04-13T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3a280ee0019497579",
+            "day": "THU",
+            "startTime": "2022-04-07T12:30:00.000Z",
+            "endTime": "2022-04-07T14:15:00.000Z"
+          },
+          {
+            "_id": "63fdd4a3a280ee0019497578",
+            "day": "FRI",
+            "startTime": "2022-04-08T12:30:00.000Z",
+            "endTime": "2022-04-08T14:15:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "616956a185d95c01ebe9231a",
+            "firstName": "Dr. Manish",
+            "lastName": "Dubey Sir",
+            "qualification": "Ph.D ,(Medical Microbiology), ICMR-SRF, DBT-JRF,",
+            "imageId": {
+              "_id": "616eacea82a1b7004558a545",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a065721c-e9d8-41db-bea6-ff40aea4884e.png",
+              "name": "manish dubey sir (1).png"
+            },
+            "companyId": null,
+            "featuredLine": "All concepts brain mai set ker denge."
+          },
+          {
+            "_id": "60879b1d9a419f00180efc39",
+            "firstName": "Samapti",
+            "lastName": "Sinha Mam",
+            "qualification": "Masters in zoology from BHU",
+            "imageId": {
+              "_id": "616ef33454188d0011501356",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/14d60998-abf0-474b-a051-da57ed829181.png",
+              "name": "Sampati-Ma'am.png"
+            },
+            "companyId": null,
+            "experience": "5",
+            "featuredLine": "Do something now; your future self will thank you for later"
+          }
+        ],
+        "imageId": {
+          "_id": "64afe8eba5415f0018de8981",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/5a348f8b-8092-4022-b65b-c6d501e67781.png",
+          "name": "Zoology.png"
+        },
+        "tagCount": 13
+      },
+      {
+        "_id": "62514c551dfc7300110832d0",
+        "subject": "Notices",
+        "subjectId": "5f821b41c94a920018e76340",
+        "slug": "notices-660754",
+        "schedules": [],
+        "teacherIds": [],
+        "imageId": {
+          "_id": "62e7b2d491c63e0018e6bbd8",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/25ec8363-c38b-4d68-9c32-f7fe52eafe26.jpg",
+          "name": "38767.jpg"
+        },
+        "tagCount": 22
+      },
+      {
+        "_id": "635b82d0c860b0001801b50d",
+        "subject": "PRAHAR - Physics",
+        "subjectId": "6125144a846cdb0018fa0dda",
+        "slug": "prahar---physics-358069",
+        "schedules": [
+          {
+            "_id": "63fdd4a3d1f5ee0018f8d4c7",
+            "day": "MON",
+            "startTime": "2022-04-11T04:30:00.000Z",
+            "endTime": "2022-04-11T05:30:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "62e91a096099ea0011db813f",
+            "firstName": "Amar",
+            "lastName": "Jyoti Sir",
+            "qualification": "Msc. Electronics  from DDU university",
+            "imageId": {
+              "_id": "64229388dd2ddb00185df490",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/a07ec6fe-dafc-46c4-a3ef-a71052770c95.png",
+              "name": "Amar Jyoti (PW2945)_remastered.png"
+            },
+            "companyId": null,
+            "experience": "15",
+            "featuredLine": "Welcome to PW!"
+          }
+        ],
+        "tagCount": 14
+      },
+      {
+        "_id": "635b82d0efdca30011b5d2de",
+        "subject": "PRAHAR - Botany",
+        "subjectId": "635b81a59143bb001825015d",
+        "slug": "prahar---botany-917321",
+        "schedules": [
+          {
+            "_id": "63fdd4a3d6025700187951dd",
+            "day": "MON",
+            "startTime": "2022-04-11T04:30:00.000Z",
+            "endTime": "2022-04-11T05:30:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "62adf143d7ec8d0048296ad8",
+            "firstName": "Ayushi",
+            "lastName": "Agarwal Mam",
+            "qualification": "MSc botany",
+            "imageId": {
+              "_id": "62b01815d9f88c0012f0590a",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/9e7d7bd8-ae13-4ee6-9241-b2faa6c66ce8.png",
+              "name": "Ayushi aggarwal mam.png"
+            },
+            "companyId": null,
+            "experience": "6",
+            "featuredLine": "Welcome To PW"
+          }
+        ],
+        "tagCount": 9
+      },
+      {
+        "_id": "635b82d094ffe300187283d2",
+        "subject": "PRAHAR - Chemistry",
+        "subjectId": "612514669cc46c00116add1f",
+        "slug": "prahar---chemistry-793899",
+        "schedules": [
+          {
+            "_id": "63fdd4a37be36c008b03ad8c",
+            "day": "MON",
+            "startTime": "2022-04-11T04:30:00.000Z",
+            "endTime": "2022-04-11T05:30:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "636891384dfa570018a3411d",
+            "firstName": "Anurag",
+            "lastName": "Pareek Sir",
+            "qualification": "M Sc Chemistry from MDS university Ajmer Rajasthan",
+            "imageId": {
+              "_id": "636b8c44d012200011659177",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/dbbc819d-5622-4b71-ac79-a6b03828aefc.png",
+              "name": "anurag pareek (1) (1) (2).png"
+            },
+            "companyId": null,
+            "featuredLine": "Welcome to PW Family"
+          }
+        ],
+        "tagCount": 6
+      },
+      {
+        "_id": "635b82d05a947100112f8c1f",
+        "subject": "PRAHAR - Zoology",
+        "subjectId": "635b81b1387b570018f7a6eb",
+        "slug": "prahar---zoology-893452",
+        "schedules": [
+          {
+            "_id": "63fdd4a3a280ee0019497577",
+            "day": "MON",
+            "startTime": "2022-04-11T04:30:00.000Z",
+            "endTime": "2022-04-11T05:30:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "635cf4aee3c93e0018145e0c",
+            "firstName": "Sunil Kumar",
+            "lastName": "Yadav Sir",
+            "qualification": "B.Tech. Bioinformatics( Amity University)",
+            "imageId": {
+              "_id": "64687d93b8c69e0018efed3a",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/4d952a70-b53f-4af9-8070-0f01fbb3cb34.png",
+              "name": "WhatsApp_Image_2023-05-03_at_15.16.33-removebg-preview.png"
+            },
+            "companyId": null,
+            "experience": "10",
+            "featuredLine": "Welcome to PW Family"
+          }
+        ],
+        "tagCount": 7
+      },
+      {
+        "_id": "63e12ae78dc7990019351705",
+        "subject": "Physical Education",
+        "subjectId": "63e11fb18c11aa00188ddad0",
+        "slug": "physical-education-186610",
+        "schedules": [
+          {
+            "_id": "63fdd4a3b520bf00bfe25b01",
+            "day": "MON",
+            "startTime": "2022-04-11T04:30:00.000Z",
+            "endTime": "2022-04-11T05:30:00.000Z"
+          }
+        ],
+        "teacherIds": [],
+        "tagCount": 11
+      },
+      {
+        "_id": "63e12ae763703a0018d2760c",
+        "subject": "Computer Science",
+        "subjectId": "63e11f878c11aa00188ddab8",
+        "slug": "computer-science-659255",
+        "schedules": [
+          {
+            "_id": "63fdd4a4a77c980018c2660e",
+            "day": "MON",
+            "startTime": "2022-04-11T04:30:00.000Z",
+            "endTime": "2022-04-11T05:30:00.000Z"
+          }
+        ],
+        "teacherIds": [],
+        "imageId": {
+          "_id": "64538c936460a70018be7439",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/f5c85aab-0329-4434-a708-026e05f3f800.jpg",
+          "name": "Computer-Science.jpg"
+        },
+        "tagCount": 1
+      },
+      {
+        "_id": "63d92c98651bad0018742ee6",
+        "subject": "English",
+        "subjectId": "606efc4cff5de90011c08049",
+        "slug": "english-191023",
+        "schedules": [
+          {
+            "_id": "63fdd4a33c429500db66818d",
+            "day": "MON",
+            "startTime": "2022-04-11T10:30:00.000Z",
+            "endTime": "2022-04-11T10:30:00.000Z"
+          }
+        ],
+        "teacherIds": [
+          {
+            "_id": "63766128276d4302bfade877",
+            "firstName": "Niharika Menghi",
+            "lastName": "Ma'am",
+            "qualification": "MSc",
+            "imageId": {
+              "_id": "637cae1c4f284a0019d10d9d",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/e2107223-7832-49c1-84b3-5dc71cc786db.png",
+              "name": "52.png"
+            },
+            "companyId": null,
+            "experience": "6",
+            "featuredLine": "Welcome to PW"
+          },
+          {
+            "_id": "616db1b1fef8e10185723b9a",
+            "firstName": "Dr. Danish",
+            "lastName": "Zafar Sir",
+            "qualification": "Ph.D in English, M.Phil in English",
+            "imageId": {
+              "_id": "6231b4019018bb0018f72845",
+              "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+              "key": "5eb393ee95fab7468a79d189/cc7dd5d6-1b3d-4fe3-ae49-30c39360ce5a.png",
+              "name": "danish zafar sir.png"
+            },
+            "companyId": null,
+            "experience": "11",
+            "featuredLine": "Either you win or you learn, You never lose"
+          }
+        ],
+        "imageId": {
+          "_id": "64afe6879c4a610018fbf38f",
+          "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+          "key": "5eb393ee95fab7468a79d189/68a98515-97e0-4e68-b0ff-9716851172b2.png",
+          "name": "English.png"
+        },
+        "tagCount": 3
+      }
+    ],
+    "status": "Active",
+    "isAvailableFromPoints": true,
+    "maxWalletPoint": 300,
+    "registrationStartDate": "2022-02-27T18:30:00.000Z",
+    "registrationEndDate": "2023-09-29T18:29:59.000Z",
+    "previewImage": {
+      "_id": "6396ed9017e3000018efaa0f",
+      "baseUrl": "https://d2bps9p1kiy4ka.cloudfront.net/",
+      "key": "5eb393ee95fab7468a79d189/5a92ca26-2348-4874-8b83-07d8f7ed68c0.png",
+      "name": "Lakshya NEET (1).png"
+    },
+    "orientationClassBanner": null,
+    "batchPdf": null,
+    "previewVideoType": "none",
+    "previewVideoUrl": null,
+    "previewVideoId": null,
+    "faqCat": "62302bd6c55b0d005b19763d",
+    "attachTestCat": true,
+    "testCat": "6242b08dba2b770018acb0bb",
+    "testCats": [
+      "6242b08dba2b770018acb0bb"
+    ],
+    "meta": [
+      {
+        "_id": "63540958a1819500113f9bc3",
+        "key": "Live Lectures",
+        "value": "300+",
+        "displayOrder": 1,
+        "isDescription": true
+      },
+      {
+        "_id": "63540958a1819500113f9bc2",
+        "key": "DPP",
+        "value": "250+",
+        "displayOrder": 2,
+        "isDescription": true
+      },
+      {
+        "_id": "63540958a1819500113f9bc1",
+        "key": "DPP Solutions",
+        "value": "250+",
+        "displayOrder": 3,
+        "isDescription": true
+      },
+      {
+        "_id": "63540958a1819500113f9bc0",
+        "key": "Tests",
+        "value": "21+",
+        "displayOrder": 4,
+        "isDescription": true
+      },
+      {
+        "_id": "63e9dbf8d0280b0018ed7d89",
+        "key": "COURSE_DURATION"
+      },
+      {
+        "_id": "63e9dbf8d0280b0018ed7d88",
+        "key": "LECTURES"
+      },
+      {
+        "_id": "63e9dbf8d0280b0018ed7d87",
+        "key": "COURSE_TYPE"
+      },
+      {
+        "_id": "63e9dbf8d0280b0018ed7d86",
+        "key": "VIDEO_CONTENT_DESCRIPTION"
+      },
+      {
+        "_id": "63e9dbf8d0280b0018ed7d85",
+        "key": "ACCESS_DEVICES"
+      },
+      {
+        "_id": "63e9dbf8d0280b0018ed7d84",
+        "key": "COURSE_ACCESS"
+      },
+      {
+        "_id": "63e9dbf8d0280b0018ed7d83",
+        "key": "AVERAGE_CTC"
+      }
+    ],
+    "buddyRoomId": "",
+    "previewVideoDetails": null,
+    "enableStudyMaterial": true,
+    "studyMaterials": [
+      {
+        "_id": "63fdd493b520bf00bfe25aec",
+        "typeId": "63ae0482c9a660008c16a8fc",
+        "type": "BOOK"
+      }
+    ],
+    "markedAsNew": false,
+    "isClassLive": false,
+    "isPathshala": false,
+    "slug": "lakshya-neet-2023-020071",
+    "khazanaProgramId": "62cd4128972ca20018b4c092",
+    "config": {
+      "enableBatchReferAndEarn": true,
+      "referAndEarnExpireAt": "2023-09-30",
+      "isAddonVisible": true,
+      "addonsTitle": "Recommended Store Items"
+    },
+    "isRecorded": false,
+    "enableCommunity": false,
+    "enableCommunityWeb": false,
+    "enableSuper40": false,
+    "manualAllotmentCount": 20,
+    "isPayLaterEnabled": false,
+    "isSelfLearning": false,
+    "priceLabel": "(FOR FULL BATCH)",
+    "dRoomId": "624e8ceb80870b0019923ab2",
+    "packValidity": 0,
+    "shortDescription": "<!DOCTYPE html>\n<html lang=\"en\">\n <head>\n   <meta charset=\"UTF-8\" />\n   <style>\n     .description-meta-container {\n       display: flex !important;\n       flex-direction: column !important;\n       gap: 14px !important;\n     }\n\n     .child-container {\n       display: flex !important;\n       align-items: center !important;\n       gap: 12px !important;\n     }\n\n     .icon {\n       width: 32px !important;\n       height: 32px !important;\n     }\n\n     .sub-text {\n       font-size: 14px !important;\n       font-weight: 500 !important;\n       color: #888888 !important;\n     }\n\n     .main-text {\n       font-size: 14px !important;\n       font-weight: 600 !important;\n       color: #1b2124 !important;\n     }\n\n     .text {\n       font-size: 14px !important;\n       font-weight: 500 !important;\n       color: #1b2124 !important;\n     }\n\n     .text-container {\n       display: flex !important;\n       flex-direction: column !important;\n       gap: 4px !important;\n     }\n   </style>\n </head>\n <body>\n<div class=\"description-meta-container\">\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f463046e-0ed5-43b3-981c-944985082135.png\" />\n<div class=\"text-container\"><span class=\"sub-text\"> Duration: </span> <span class=\"main-text\">7th April 2022 - 30th Sep 2023 </span></div>\n</div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/972706bc-b79b-41e5-99b4-230290bd296c.png\" />\n<div class=\"text-container\"><span class=\"sub-text\"> Validity: </span> <span class=\"main-text\">Till NEET Exam 2023</span></div>\n</div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/972706bc-b79b-41e5-99b4-230290bd296c.png\" /> <span class=\"text\"> Recording of all Live lectures available </span></div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/972706bc-b79b-41e5-99b4-230290bd296c.png\" /> <span class=\"text\"> Chapter level DPP, Test Assignments </span></div>\n<div class=\"child-container\"><img class=\"icon\" src=\"https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a5affa35-0c73-4ca1-8600-65d7ca8a328b.png\" />\n<div class=\"text-container\"><span class=\"sub-text\"> Subjects: </span> <span class=\"main-text\"> Physics, Chemistry, Botany, Zoology etc. </span></div>\n</div>\n</div>\n</body>\n</html>",
+    "metaText": "",
+    "countryGroup": "IN",
+    "notifyMeStatus": "BATCH_STARTED",
+    "registerTag": "",
+    "discountValue": 0,
+    "discountLabel": "",
+    "bannerLabel": "",
+    "discountExpiryDate": "",
+    "isSatExamEnable": false,
+    "pitaraProgramId": null,
+    "pitaraTheme": null,
+    "appleInAppPurchase": {},
+    "program": {
+      "_id": "5eb3b1017b1fb86475ec30eb",
+      "name": "Complete Programe",
+      "board": "CBSE",
+      "class": "12+",
+      "exam": [
+        "AE/JE",
+        "BOARD_EXAM",
+        "BPSC",
+        "Banking",
+        "CA",
+        "COMMERCE",
+        "CUET UG",
+        "FOUNDATION",
+        "GATE",
+        "IIT JAM",
+        "IIT JAM & CSIR NET",
+        "IIT-JEE",
+        "KVPY",
+        "LAW",
+        "MBA",
+        "MPPSC",
+        "MPSC",
+        "NDA",
+        "NEET",
+        "NSAT",
+        "NTSE",
+        "OLYMPIAD",
+        "PRE_FOUNDATION",
+        "PW_ONLY_IAS",
+        "Railway",
+        "SSC",
+        "TET",
+        "UP Exams",
+        "UPPSC",
+        "UPSC",
+        "skills"
+      ],
+      "language": "English",
+      "slug": "complete-programe-256787"
+    }
+  }
+}
